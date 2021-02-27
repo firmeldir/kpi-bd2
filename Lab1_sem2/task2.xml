@@ -1,0 +1,103 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<fishing>
+  <product>
+    <description>Rich Sport Fishing Hunter Hi-Modulus</description>
+    <price> $25.0000 </price>
+    <image>http://www.fishing-mart.com.ua/6133-home_default/rich-sport-fishing-hunter-hi-modulus.jpg</image>
+  </product>
+  <product>
+    <description>Panacea Marauder Fat</description>
+    <price> $13.0000 </price>
+    <image>http://www.fishing-mart.com.ua/6175-home_default/panacea-marauder-fat.jpg</image>
+  </product>
+  <product>
+    <description>Mikado Mind 100</description>
+    <price> $5.5600 </price>
+    <image>http://www.fishing-mart.com.ua/6188-home_default/mikado-mind-100.jpg</image>
+  </product>
+  <product>
+    <description>Tica Reel Grease</description>
+    <price> $2.3000 </price>
+    <image>http://www.fishing-mart.com.ua/4885-home_default/tica-reel-grease-smazka-dlya-katushek.jpg</image>
+  </product>
+  <product>
+    <description>Fanatik Boxer</description>
+    <price> $1.0350 </price>
+    <image>http://www.fishing-mart.com.ua/6230-home_default/fanatik-boxer.jpg</image>
+  </product>
+  <product>
+    <description>Fanatik Viper</description>
+    <price> $1.0500 </price>
+    <image>http://www.fishing-mart.com.ua/6244-home_default/fanatik-viper.jpg</image>
+  </product>
+  <product>
+    <description>Fanatik Lobster</description>
+    <price> $1.0000 </price>
+    <image>http://www.fishing-mart.com.ua/6256-home_default/fanatik-lobster.jpg</image>
+  </product>
+  <product>
+    <description>Fanatik Larva</description>
+    <price> $1.1000 </price>
+    <image>http://www.fishing-mart.com.ua/6268-home_default/fanatik-larva.jpg</image>
+  </product>
+  <product>
+    <description>Fanatik Raider</description>
+    <price> $1.1000 </price>
+    <image>http://www.fishing-mart.com.ua/6280-home_default/fanatik-raider.jpg</image>
+  </product>
+  <product>
+    <description>Fanatik Dagger</description>
+    <price> $1.0350 </price>
+    <image>http://www.fishing-mart.com.ua/6289-home_default/fanatik-dagger.jpg</image>
+  </product>
+  <product>
+    <description>Бахилы ОЗК (БЦК)</description>
+    <price> $2.8000 </price>
+    <image>http://www.fishing-mart.com.ua/5891-home_default/bahily-ozk-bck.jpg</image>
+  </product>
+  <product>
+    <description>Fanatik Goby</description>
+    <price> $1.2500 </price>
+    <image>http://www.fishing-mart.com.ua/6335-home_default/fanatik-goby.jpg</image>
+  </product>
+  <product>
+    <description>Fanatik FO-3315 офсетный крючок</description>
+    <price> $0.6500 </price>
+    <image>http://www.fishing-mart.com.ua/6373-home_default/fanatik-fo-3315-ofsetnyy-kryuchok.jpg</image>
+  </product>
+  <product>
+    <description>Fanatik FD-1140 двойной крючок</description>
+    <price> $0.8800 </price>
+    <image>http://www.fishing-mart.com.ua/6374-home_default/fanatik-fd-1140-dvoynoy-kryuchok.jpg</image>
+  </product>
+  <product>
+    <description>Ryobi Ecusima Vi</description>
+    <price> $35.6000 </price>
+    <image>http://www.fishing-mart.com.ua/7325-home_default/ryobi-ecusima-vi.jpg</image>
+  </product>
+  <product>
+    <description>Condor липгрип (челюстной захват)</description>
+    <price> $4.0000 </price>
+    <image>http://www.fishing-mart.com.ua/6376-home_default/condor-lipgrip-chelyustnoy-zahvat.jpg</image>
+  </product>
+  <product>
+    <description>Mistrall поводки спиннинговые</description>
+    <price> $0.3200 </price>
+    <image>http://www.fishing-mart.com.ua/6392-home_default/mistrall-povodki-spinningovye.jpg</image>
+  </product>
+  <product>
+    <description>Rubicon стальные поводки 7x7</description>
+    <price> $0.2800 </price>
+    <image>http://www.fishing-mart.com.ua/6393-home_default/rubicon-stalnye-povodki-7x7.jpg</image>
+  </product>
+  <product>
+    <description>Winner поводки на щуку 1x7 с американкой</description>
+    <price> $0.2400 </price>
+    <image>http://www.fishing-mart.com.ua/6394-home_default/winner-povodki-na-shuku-1x7-s-amerikankoy.jpg</image>
+  </product>
+  <product>
+    <description>Winner поводки на щуку 1x7 с пластинчатым карабином</description>
+    <price> $0.2000 </price>
+    <image>http://www.fishing-mart.com.ua/6395-home_default/winner-povodki-na-shuku-1x7-s-plastinchatym-karabinom.jpg</image>
+  </product>
+</fishing>
