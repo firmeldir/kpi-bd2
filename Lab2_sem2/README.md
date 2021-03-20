@@ -2,20 +2,20 @@
 
 ## Приклади роботи програми
 
-![lab2](Screenshot_1.png)
+![lab2](Screenshot_1.jpg)
 
-![lab2](Screenshot_2.png)
+![lab2](Screenshot_2.jpg)
 
-![lab2](Screenshot_3.png)
+![lab2](Screenshot_3.jpg)
 
-![lab2](Screenshot_4.png)
+![lab2](Screenshot_4.jpg)
 
-![lab2](Screenshot_5.png)
+![lab2](Screenshot_5.jpg)
 
-![lab2](Screenshot_6.png)
+![lab2](Screenshot_6.jpg)
 
-![lab2](Screenshot_7.png)
+![lab2](Screenshot_7.jpg)
 
-![lab2](Screenshot_8.png)
+![lab2](Screenshot_8.jpg)
 
-![lab2](Screenshot_9.png)
+![lab2](Screenshot_9.jpg)
